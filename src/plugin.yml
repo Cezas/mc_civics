@@ -1,0 +1,7 @@
+main: me.civics.Main
+name: civics
+version: 1.0
+author: hentaiwarcrimes
+
+commands:
+  reset:
